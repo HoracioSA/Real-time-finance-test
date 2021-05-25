@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Cards> learn react link 1`] = `
+<div>
+  <div
+    class="cardContainer"
+  >
+    <div
+      class="iconAndTitleContainer"
+    >
+      <button>
+        <svg
+          color="#C774EE"
+          fill="none"
+          height="17"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          style="color: rgb(199, 116, 238);"
+          viewBox="0 0 24 24"
+          width="17"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <line
+            x1="12"
+            x2="12"
+            y1="19"
+            y2="5"
+          />
+          <polyline
+            points="5 12 12 5 19 12"
+          />
+        </svg>
+      </button>
+      <div
+        class="price_company"
+      >
+        <strong>
+          NASDAQ
+        </strong>
+        <p>
+          300
+        </p>
+      </div>
+    </div>
+    <div
+      class="wining_percent"
+    >
+      <strong>
+        <span>
+          +
+        </span>
+        0.9
+      </strong>
+      <p>
+        <span>
+          -
+        </span>
+        0.5
+      </p>
+    </div>
+  </div>
+</div>
+`;

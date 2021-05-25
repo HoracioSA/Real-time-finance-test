@@ -1,0 +1,13 @@
+#home-container{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem;
+}
+.ChartDetail{
+    display: flex;
+    grid-area: 1rem;
+}
